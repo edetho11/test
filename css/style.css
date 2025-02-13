@@ -9,16 +9,16 @@ a {
 }
 
 a:hover {
-  color: #ddd;
+  color: red;
   text-decoration: none;
 }
 
 p {
-  color: #fff;
+  color: red;
 }
 
 .content-width {
-  max-width: 1200px;
+  max-width: 600px;
   margin: 0 auto;
   padding: 0 20px;
 }
