@@ -9,12 +9,12 @@ a {
 }
 
 a:hover {
-  color: #ddd;
+  color: red;
   text-decoration: none;
 }
 
 p {
-  color: #fff;
+  color: red;
 }
 
 .content-width {
